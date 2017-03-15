@@ -1,0 +1,30 @@
+{
+  "name": "lite-server-skeleton",
+  "version": "1.0.0",
+  "description": "Lightweight project stucture with live reload server(lite-server)",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odulzaides/lite-server-start.git"
+  },
+  "keywords": [
+    "developement",
+    "project",
+    "empty",
+    "project"
+  ],
+  "author": "odulzaides",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "liteserver": "^0.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/odulzaides/lite-server-start/issues"
+  },
+  "homepage": "https://github.com/odulzaides/lite-server-start#readme"
+}
